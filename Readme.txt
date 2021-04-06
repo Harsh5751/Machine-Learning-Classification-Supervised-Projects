@@ -1,2 +1,3 @@
 NOTE: Jupyter notebook files have been known to have errors when trying to view on github directly. If it does not load, please download the project to view code and results. 
 Supervised Machine Learning Classification Projects, Models, Algorithms
+Projects Include: Predict Customer clicks on FB ads (Logistic Regression), Titanic Survival (Logistic Regression), Bank Customer Retirement Predictions (Support Vector Machines), Cancer Classification (Support Vector Machines), Credit Card Fraud Detection (Naive Bayes), Spam Classifier (Naive Bayes), Amazon Reviews Classification (Decision Trees and Random Forests), and Kyphosis Disease Classification (Decision Trees and Random Forests)
